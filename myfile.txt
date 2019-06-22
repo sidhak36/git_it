@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEADgit
 This is a java file
 =======
 
