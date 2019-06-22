@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 This is a java file
+=======
+
+
+
+
+This is a C++ file
+>>>>>>> branch_2
