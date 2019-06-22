@@ -3,3 +3,5 @@ phone
 internet
 
 cover - gorilla glass 3
+
+media player - win
